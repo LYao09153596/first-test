@@ -1,3 +1,3 @@
 # first-test
 first git
-hello world
+hello world我们已经商量好了
